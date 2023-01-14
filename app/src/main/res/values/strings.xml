@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">iContact</string>
+    <string-array name="input_descriptions">
+        <item>Contact</item>
+        <item>Friend</item>
+        <item>Colleague</item>
+        <item>Child</item>
+        <item>Sibling</item>
+        <item>Parent</item>
+        <item>Family Member</item>
+        <item>Spouse</item>
+        <item>Wife</item>
+        <item>Husband</item>
+        <item>Partner</item>
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Daughter</item>
+        <item>Son</item>
+        <item>Aunt</item>
+        <item>Uncle</item>
+        <item>Nephew</item>
+        <item>Niece</item>
+        <item>Cousin</item>
+        <item>Grandfather</item>
+        <item>Grandmother</item>
+        <item>Granddaughter</item>
+    </string-array>
+
+    <style name="FullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+</resources>
